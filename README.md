@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/huycloud1999/buiquanghuy/blob/main/main2.jpg)
+![Profile Banner](https://github.com/huycloud1999/huycloud1999/blob/main/main2.jpg)
 
 <img alt="Night Coding" src="./Hand Wave.gif" width='40' align="left"/><h2>Hey there! I'm Hny </h2>
 
