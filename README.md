@@ -1,6 +1,6 @@
 ![Profile Banner](https://github.com/huycloud1999/buiquanghuy/blob/main/main.jpg?raw=true)
 
-<img alt="Night Coding" src="./Hand Wave.gif" width='40' align="left"/><h2>Hey there! I'm [Your Name]</h2>
+<img alt="Night Coding" src="./Hand Wave.gif" width='40' align="left"/><h2>Hey there! I'm Hny </h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -36,9 +36,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/[Your GitHub Username]">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/huycloud1999">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huycloud1999&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huycloud1999&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
