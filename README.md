@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/huycloud1999/buiquanghuy/blob/main/main.jpg)
+![Profile Banner](https://github.com/huycloud1999/buiquanghuy/blob/main/main2.jpg)
 
 <img alt="Night Coding" src="./Hand Wave.gif" width='40' align="left"/><h2>Hey there! I'm Hny </h2>
 
@@ -12,12 +12,12 @@
 ✉️ &nbsp;You can shoot me an email huycloudd1999@gmail.com.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://sieubuong.vercel.app/) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="./code.gif" align="right"/>
+<img alt="Night Coding" src="./code.gif" align="right"  style="height: 150px; @media (max-width: 768px) {height: 100px; }"/>
 
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; 
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
@@ -45,8 +45,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="[Your Facebook Link]"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="[Your Portfolio Link]"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:[Your Email]"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="tel:[Your Phone]"><img src="https://img.shields.io/badge/-Phone-25D366?style=flat&logo=WhatsApp&logoColor=white"/></a>
+<a href="https://www.facebook.com/hny2801"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://sieubuong.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:huycloud1999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="tel:+84394360810"><img src="https://img.shields.io/badge/-Phone-25D366?style=flat&logo=WhatsApp&logoColor=white"/></a>
 </p>
